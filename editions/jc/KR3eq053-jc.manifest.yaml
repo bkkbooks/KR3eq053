@@ -16,11 +16,11 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3eq053_000-jc.yaml, hash: 'sha256:c76f78bd2195da05e565c91d9f33738c1674f5e7021f5270b532c7eebd21c9fe'}
+  - {seq: 0, filename: KR3eq053_000-jc.yaml, hash: 'sha256:d2338a3781cc19a8b7d58be62105707b8b5c0509213297da17080031e7b34f77'}
   - {seq: 1, filename: KR3eq053_001-jc.yaml, hash: 'sha256:57f07468f5fb1a114bda802a22f88411fd716003365e41285ae3e6619a36fd49'}
   - {seq: 3, filename: KR3eq053_003-jc.yaml, hash: 'sha256:bd7b46d0b458895a9a5021b45898caa47e10888afa17a19fb425d3fbdeee196e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq053_000-jc.markers.yaml, hash: 'sha256:ea75000a7240e21eb920494b7f8b07b8e48acb33e9fd14723ceef7cbdf17e6fa'}
+  - {seq: 0, role: markers, filename: assets/KR3eq053_000-jc.markers.yaml, hash: 'sha256:94e3c4557e5f4cc608a54d2a896e73facaa033a26fe6060e42ac32bbe1d0c01f'}
   - {seq: 1, role: markers, filename: assets/KR3eq053_001-jc.markers.yaml, hash: 'sha256:23bbaa650a47dea301b759d89eddce3f8e1fa270e70c9decb71a8eac9db920f2'}
   - {seq: 3, role: markers, filename: assets/KR3eq053_003-jc.markers.yaml, hash: 'sha256:a93aed75d70c682a59d11c49bb1a85f5d6a5114a6c1000d56fa699e87bf3c634'}
 table_of_contents:
@@ -28,7 +28,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq053_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 232
   label: 自序
@@ -38,7 +38,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3eq053_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 232
     - 500
   label: 序
@@ -1234,4 +1234,4 @@ table_of_contents:
   label: 牙齒疼痛
   type: section
   level: 2
-hash: sha256:f281c67bc14cafc2de31bcbb343a724de970635617c012b05c3aae21fbdfdbb5
+hash: sha256:21b49d28d0ae413e31abec8ab1540ff49c1acb7ac6fbbbd625ee66950817cdfe
